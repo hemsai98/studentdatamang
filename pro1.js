@@ -1,2 +1,5 @@
-alert("Welcome to student data management");
-    
+function submitrec()
+{
+    alert("Your response has been recorded, Thank You")
+}
+        
