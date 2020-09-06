@@ -1,0 +1,80 @@
+
+
+.txt{
+
+    width: 20%;
+    float: left;
+    padding: 20px;
+    font-size: 20px;
+     background-color: antiquewhite;
+    margin: 00px 10px 10px 20px; 
+    border-radius: 5px;
+    
+}
+
+
+body{
+    background-color: gray;
+}
+div{
+    padding: 10px 200px 750px 200px;
+    background-color: gray;
+    background: url(25.jpg);
+    margin: 00px 100px 0px 100px;
+   
+}
+
+#hed{
+    margin: 00px 100px 00px 100px;
+    padding: 20px 0px 20px 0px;
+   font-size: 40px;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: cornflowerblue;
+}
+
+
+#abc{
+    height: 200px;
+}
+
+.txtbox{
+    width: 55%;
+     float: left;
+    padding: 20px;
+    font-size: 20px;
+    border: none;
+    border-bottom: 2px solid blue;
+    border-radius: 5px;
+    margin: 00px 10px 10px 20px;
+    
+}
+
+#aaa{
+    
+    width: 25%;
+    float: left;
+    padding: 20px;
+    font-size: 20px;
+     background-color: goldenrod;
+    margin: 00px 10px 10px 150px; 
+    border-radius: 5px;
+    
+    
+}
+
+#bbb{
+    width: 25%;
+     float: left;
+    padding: 20px;
+    font-size: 20px;
+    border: none;
+    border-bottom: 2px solid blue;
+    background-color: goldenrod;
+    border-radius: 5px;
+    margin: 00px 10px 10px 20px;
+}
+
+#pic{
+    border: none;
+}
